@@ -1,0 +1,11 @@
+{
+  "foam.edit.linkReferenceDefinitions": "withExtensions",
+  "foam.openDailyNote.directory": "journal",
+  "foam.openDailyNote.fileNameFormat": "yyyy-mm-dd",
+  "foam.files.ignore": [
+    ".vscode/**/*"
+  ],
+  "editor.wordWrap": "on",
+  "files.defaultLanguage": "markdown",
+  "markdown.preview.breaks": true
+}

@@ -1,0 +1,14 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+
+# Foam
+.foam/
+
+# Local overrides
+.vscode/*.local.json
